@@ -53,7 +53,6 @@
 * **설명:** HuggingFace의 BERT 모델을 한국어 영화 리뷰 데이터에 맞게 파인튜닝
 * **주요 기술:** `Python`, `HuggingFace Transformers`, `Google Colab`
 * **성과:** 공식 문서와 논문을 바탕으로 토크나이저 설정 문제 해결
-* **Link:** [GitHub Repository →](https://github.com/your-id/sentiment-analysis)
 
 ---
 
